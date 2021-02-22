@@ -14,7 +14,8 @@ function PetShop(props) {
             </div>
             <div>
                 <button onClick={onclick}>Iniciar o banho...</button>
-            </div>
+            </div>            
+
         </div>
     )
 }
